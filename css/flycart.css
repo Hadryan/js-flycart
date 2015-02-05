@@ -1,0 +1,28 @@
+.flycart-animated-add {
+  position: absolute;
+  border: 1px dotted #f00;
+}
+.flycart-animated-remove {
+  position: absolute;
+  border: 1px dotted #f00;
+}
+.flycart-target {
+  display: inline-block;
+  background: #2eae9b;
+  color: #afe1da;
+  padding: 5px 15px 6px 15px;
+}
+.flycart-target:hover {
+  color: #fff;
+}
+.flycart-source {
+  display: inline-block;
+  background: #f9a30c;
+  color: #fadca7;
+  padding: 5px 15px 6px 15px;
+  cursor: pointer;
+}
+.flycart-source:hover {
+  color: #fff;
+}
+
